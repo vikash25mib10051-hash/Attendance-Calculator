@@ -1,1 +1,1 @@
-# Attendance-Calculator
+Attendance Calculator is a Python and Streamlit-based web application that helps students track and manage their attendance. It calculates current attendance, predicts future percentages, considers holidays and remaining classes, and provides tools to calculate safe bunking limits and required classes to reach a target percentage.
